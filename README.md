@@ -4,6 +4,9 @@ The user can scroll through the app by clicking and moving cursor.
 
 Live version: https://click-drag-scroll.herokuapp.com
 
+<img src="./src/graphics/screencast.gif" width="400px" height="auto">
+
+
 ## Tech stack
 * Node
 * Express
