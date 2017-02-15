@@ -1,6 +1,6 @@
 # Click and Drag to Scroll
 
-The user can scroll through the app by clicking and then moving cursor.
+The user can scroll through the app by clicking and moving cursor.
 
 Live version: https://click-drag-scroll.herokuapp.com
 
