@@ -1,15 +1,14 @@
-# Vanilla JavaScript App Boilerplate
+# Click and Drag to Scroll
 
-App demonstrating ...
+The user can scroll through the app by clicking and then moving cursor.
 
-Live version: https://REPO.herokuapp.com
-
-<img src="./src/graphics/screencast.gif" width="275px" height="auto">
+Live version: https://click-drag-scroll.herokuapp.com
 
 ## Tech stack
 * Node
 * Express
 * Heroku
+* Browsersync
 * Vanilla JavaScript
 * ES6
 * Flexbox
@@ -17,8 +16,8 @@ Live version: https://REPO.herokuapp.com
 ## Getting started
 
 ```sh
-git clone https://github.com/PiotrBerebecki/REPO.git
-cd REPO
+git clone https://github.com/PiotrBerebecki/click-drag-scroll.git
+cd click-drag-scroll
 npm install
 
 #1. Start the development server with Browsersync reloading
